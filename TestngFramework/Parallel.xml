@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="whatever" Parallel = "tests">
+  <test name="whatever">
+  <classes>
+  
+  <class name = "com.parallel2Test"></class>
+  
+  </classes>
+    
+  </test> 
+  <test name="whatever">
+  <classes>
+  <class name = "com.parallelTest"></class>
+  
+  
+  </classes>
+    
+  </test> 
+</suite>
